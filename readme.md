@@ -1,10 +1,11 @@
 # Anglais
 
-Objectif: Obtenir le TOEIC.
+**Objectif:** Obtenir le TOEIC.
 
 ## Cours
 
-1. - [Conjugaison](./cours/conjugaison.md)
+1. [Conjugaison](./cours/conjugaison.md)
+
 Coming soon...
 
 ## Exercices
@@ -16,6 +17,7 @@ Coming soon...
 - Écouter la radio en anglais (BBC, EURONEWS, CNN)
     - [BBC](https://www.bbc.co.uk/radio)
     - [EURONEWS](https://www.euronews.com/live)
+
     :warning: Ici, le but est d'améliorer votre compréhension orale. Ne vous inquiétez pas si vous ne comprenez pas tout, l'important est de vous habituer à entendre l'anglais.
     Pour cela, vous pouvez écouter la radio pendant 5-10 minutes par jour attentivement puis la laisser en fond sonore pendant que vous faites autre chose.
 
