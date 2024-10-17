@@ -14,7 +14,7 @@
 
 ## Questions fréquentes:
 
-### [Comment différencier rapidement les temps ?](./_conjugaison/_questions.md/reperer_les_temps.md)
+### [Comment différencier rapidement les temps ?](./_conjugaison/_questions/reperer_les_temps.md) > [tableau des temps](./_conjugaison/_questions/tableau_des_temps.md)
 
 Coming soon...
 
